@@ -1,18 +1,18 @@
 {
   "pages": [
     {
-      "title": "New Update Available",
-      "description": "A new update is now available for the game. This update includes bug fixes and performance improvements.",
+      "title": "New Billboard!",
+      "description": "Say goodbye to the scrolling frame!",
       "imageId": 11376117882
     },
     {
-      "title": "New Features Added",
-      "description": "We have added several new features to the game, including a new game mode and a new in-game currency.",
+      "title": "IT MOVES!",
+      "description": "Scrolls through every news page!",
       "imageId": 11376118736
     },
     {
-      "title": "Server Maintenance",
-      "description": "The servers will be undergoing maintenance on Wednesday at 2 PM EST. The game will be unavailable during this time.",
+      "title": "VIA HTTPS!",
+      "description": "All this news is coming from GitHub!",
       "imageId": 10903543564
     }
   ]
