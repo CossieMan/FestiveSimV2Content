@@ -1,0 +1,12 @@
+{
+    "NewsPage": {
+		"Page1": {
+			"Title": "MORE NEWS PAGES",
+ 			"Body": "What's that at the top of the screen? That's right! There are now multiple news page tabs!",
+   			 "Image": "8374288189"
+},
+		"Page2": {
+			"Title": "UPDATED GUI",
+ 			"Body": "A more sleek news page design is being worked on as we speak!",
+   			 "Image": "8613970794"
+}
