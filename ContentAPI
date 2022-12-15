@@ -3,17 +3,17 @@
     {
       "title": "New Update Available",
       "description": "A new update is now available for the game. This update includes bug fixes and performance improvements.",
-      "imageId": "update_screenshot.png"
+      "imageId": 11376117882
     },
     {
       "title": "New Features Added",
       "description": "We have added several new features to the game, including a new game mode and a new in-game currency.",
-      "imageId": "new_features.png"
+      "imageId": 11376118736
     },
     {
       "title": "Server Maintenance",
       "description": "The servers will be undergoing maintenance on Wednesday at 2 PM EST. The game will be unavailable during this time.",
-      "imageId": "server_maintenance.png"
+      "imageId": 10903543564
     }
   ]
 }
